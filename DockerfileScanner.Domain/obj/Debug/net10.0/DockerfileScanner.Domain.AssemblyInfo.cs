@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerfileScanner.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f7379de64eabe9e6b330b420d015a1a8e21fb7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4170cbda2091bea2bc77cfc36e072d2f4f82c253")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerfileScanner.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerfileScanner.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

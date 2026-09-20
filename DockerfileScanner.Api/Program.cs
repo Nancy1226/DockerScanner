@@ -16,6 +16,7 @@ builder.Services.AddControllers()
 builder.Services.AddScoped<DockerfileParser>();
 builder.Services.AddScoped<IDockerfileRule, RootUserRule>();
 builder.Services.AddScoped<IDockerfileRule, LatestTagRule>();
+builder.Services.AddScoped<IDockerfileRule, Chmod777Rule>();
 builder.Services.AddScoped<DockerfileScannerService>();
 
 var app = builder.Build();
