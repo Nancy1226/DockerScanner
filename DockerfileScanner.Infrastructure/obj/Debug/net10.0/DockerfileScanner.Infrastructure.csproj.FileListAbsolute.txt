@@ -15,3 +15,4 @@
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/refint/DockerfileScanner.Infrastructure.dll
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.pdb
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/ref/DockerfileScanner.Infrastructure.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.sourcelink.json

@@ -7,14 +7,13 @@ namespace DockerfileScanner.Application.Services;
 public class DockerfileScannerService
 {
     private readonly DockerfileParser _parser;
-    private readonly RootUserRule _rootUserRule;
-
+    private readonly IEnumerable<IDockerfileRule> _rules;
     public DockerfileScannerService(
         DockerfileParser parser,
-        RootUserRule rootUserRule)
+        IEnumerable<IDockerfileRule> rules)
     {
         _parser = parser;
-        _rootUserRule = rootUserRule;
+        _rules = rules;
     }
 
     public List<Finding> Scan(string content)
@@ -25,10 +24,13 @@ public class DockerfileScannerService
 
         foreach (var instruction in instructions)
         {
-            var finding = _rootUserRule.Analyze(instruction);
-            if (finding != null)
+            foreach (var rule in _rules)
             {
-                findings.Add(finding);
+                var finding = rule.Analyze(instruction);
+                if (finding != null)
+                {
+                    findings.Add(finding);
+                }
             }
         }
 

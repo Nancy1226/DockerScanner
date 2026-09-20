@@ -3,22 +3,22 @@ using DockerfileScanner.Domain.Models;
 
 namespace DockerfileScanner.Domain.Rules;
 
-public class RootUserRule : IDockerfileRule
+public class LatestTagRule : IDockerfileRule
 {
     public Finding? Analyze(DockerInstruction instruction)
     {
-        if (instruction.Instruction == "USER" &&
-            instruction.Arguments == "root")
+        if (instruction.Instruction == "FROM" &&
+            instruction.Arguments.EndsWith(":latest"))
         {
             return new Finding
             {
-                RuleId = "DF001",
-                Title = "Container running as root",
+                RuleId = "DF002",
+                Title = "Using latest tag",
                 Severity = Severity.High,
                 LineNumber = instruction.LineNumber,
                 AffectedCode = instruction.RawText,
-                Description = "El contenedor está configurado para ejecutarse como usuario root.",
-                Recommendation = "Utiliza un usuario sin privilegios para ejecutar el contenedor."
+                Description = "El contenedor utiliza la etiqueta 'latest' en la instrucción FROM.",
+                Recommendation = "Utiliza una etiqueta de versión específica en la instrucción FROM."
             };
         }
 

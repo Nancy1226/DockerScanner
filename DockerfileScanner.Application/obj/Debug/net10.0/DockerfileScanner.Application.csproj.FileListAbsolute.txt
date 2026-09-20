@@ -13,3 +13,4 @@
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/refint/DockerfileScanner.Application.dll
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.pdb
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/ref/DockerfileScanner.Application.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.sourcelink.json

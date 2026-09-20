@@ -37,3 +37,4 @@
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Api/bin/Debug/net10.0/DockerfileScanner.Application.pdb
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Api/bin/Debug/net10.0/DockerfileScanner.Infrastructure.pdb
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Api/bin/Debug/net10.0/DockerfileScanner.Domain.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Api/obj/Debug/net10.0/DockerfileScanner.Api.sourcelink.json

@@ -9,3 +9,4 @@
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/refint/DockerfileScanner.Domain.dll
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/DockerfileScanner.Domain.pdb
 /Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/ref/DockerfileScanner.Domain.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/DockerfileScanner.Domain.sourcelink.json
