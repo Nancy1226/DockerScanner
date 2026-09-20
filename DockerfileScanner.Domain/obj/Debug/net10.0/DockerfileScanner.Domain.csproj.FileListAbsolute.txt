@@ -1,0 +1,11 @@
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/bin/Debug/net10.0/DockerfileScanner.Domain.deps.json
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/bin/Debug/net10.0/DockerfileScanner.Domain.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/bin/Debug/net10.0/DockerfileScanner.Domain.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/DockerfileScanner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/DockerfileScanner.Domain.AssemblyInfoInputs.cache
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/DockerfileScanner.Domain.AssemblyInfo.cs
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/DockerfileScanner.Domain.csproj.CoreCompileInputs.cache
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/DockerfileScanner.Domain.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/refint/DockerfileScanner.Domain.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/DockerfileScanner.Domain.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Domain/obj/Debug/net10.0/ref/DockerfileScanner.Domain.dll

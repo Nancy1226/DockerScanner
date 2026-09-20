@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DockerfileScanner.Application/1.0.0": {
+        "dependencies": {
+          "DockerfileScanner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DockerfileScanner.Application.dll": {}
+        }
+      },
+      "DockerfileScanner.Domain/1.0.0": {
+        "runtime": {
+          "DockerfileScanner.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DockerfileScanner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DockerfileScanner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

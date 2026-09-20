@@ -1,0 +1,17 @@
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/bin/Debug/net10.0/DockerfileScanner.Infrastructure.deps.json
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/bin/Debug/net10.0/DockerfileScanner.Infrastructure.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/bin/Debug/net10.0/DockerfileScanner.Infrastructure.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/bin/Debug/net10.0/DockerfileScanner.Application.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/bin/Debug/net10.0/DockerfileScanner.Domain.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/bin/Debug/net10.0/DockerfileScanner.Application.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/bin/Debug/net10.0/DockerfileScanner.Domain.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.csproj.AssemblyReference.cache
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.AssemblyInfoInputs.cache
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.AssemblyInfo.cs
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/Dockerfi.484833E6.Up2Date
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/refint/DockerfileScanner.Infrastructure.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/DockerfileScanner.Infrastructure.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Infrastructure/obj/Debug/net10.0/ref/DockerfileScanner.Infrastructure.dll

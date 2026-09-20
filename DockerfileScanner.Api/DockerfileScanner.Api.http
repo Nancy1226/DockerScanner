@@ -1,0 +1,6 @@
+@DockerfileScanner.Api_HostAddress = http://localhost:5195
+
+GET {{DockerfileScanner.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

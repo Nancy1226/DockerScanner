@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DockerfileScanner.Api/DockerfileScanner.Api.csproj" />
+  <Project Path="DockerfileScanner.Application/DockerfileScanner.Application.csproj" />
+  <Project Path="DockerfileScanner.Domain/DockerfileScanner.Domain.csproj" />
+  <Project Path="DockerfileScanner.Infrastructure/DockerfileScanner.Infrastructure.csproj" />
+</Solution>

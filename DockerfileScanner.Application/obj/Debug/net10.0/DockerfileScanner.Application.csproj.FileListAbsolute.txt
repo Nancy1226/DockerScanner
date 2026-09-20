@@ -1,0 +1,15 @@
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/bin/Debug/net10.0/DockerfileScanner.Application.deps.json
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/bin/Debug/net10.0/DockerfileScanner.Application.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/bin/Debug/net10.0/DockerfileScanner.Application.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/bin/Debug/net10.0/DockerfileScanner.Domain.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/bin/Debug/net10.0/DockerfileScanner.Domain.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.csproj.AssemblyReference.cache
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.AssemblyInfoInputs.cache
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.AssemblyInfo.cs
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.csproj.CoreCompileInputs.cache
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/Dockerfi.9874D204.Up2Date
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/refint/DockerfileScanner.Application.dll
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/DockerfileScanner.Application.pdb
+/Users/nancyjimenez/Documents/Angel/DockerfileScanner/DockerfileScanner.Application/obj/Debug/net10.0/ref/DockerfileScanner.Application.dll
